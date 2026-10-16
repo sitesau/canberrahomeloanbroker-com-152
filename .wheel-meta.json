@@ -1,0 +1,19 @@
+{
+  "wheel_id": 372,
+  "structure": "umbrella",
+  "slug": "canberrahomeloanbroker-com-152",
+  "project": "mortgage-broker-canberra-058e6a5261a09137a2c4ba800e351d75dd29f0",
+  "parent_t1_ref": "canberrahomeloanbroker.com-004",
+  "node_role": "buffer",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "mortgage broker canberra",
+  "intended_url": "https://sitesau.github.io/canberrahomeloanbroker-com-152/",
+  "writeback_nonce": "3f8576f7508f3721",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-canberra-004/",
+      "anchor": "mortgage broker canberra",
+      "rel": "follow"
+    }
+  ]
+}
